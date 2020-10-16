@@ -1,4 +1,4 @@
-date 1,action,server_port,message,ssh,perform,ip,date 2
+date_1,action,server_port,message,ssh,perform,ip,date_2
 "2020-09-06 00:01:45,425",filter,519,INFO,sshd,Found,118.244.206.195,9/6/2020 0:01
 "2020-09-06 00:01:45,674",actions,519,NOTICE,sshd,Ban,118.244.206.195,
 "2020-09-06 00:01:47,577",filter,519,INFO,sshd,Found,118.244.206.195,9/6/2020 0:01

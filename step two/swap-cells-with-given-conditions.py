@@ -1,5 +1,4 @@
 import csv
-import time
 with open('r-file.csv', newline='') as f:
     reader = csv.DictReader(f)
     with open('w-file.csv', 'w', newline='')as wf:

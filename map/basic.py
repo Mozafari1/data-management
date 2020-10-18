@@ -10,11 +10,14 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
 df = pd.read_csv(
-    'https://raw.githubusercontent.com/Mozafari1/data-management/main/create%20csv%20file%20with%20ip%20location/csv/ip_location.csv')
+    'r-file.csv')
 
-fig = px.scatter(df, x="ip", y="perform",
-                 size="", color="continent", hover_name="country_name",
-                 log_x=True, size_max=60)
+fig = px.scatter(df, x="banned",
+                 y="number",
+                 size="number",
+                 color="country",
+                 hover_name="country",
+                 log_x=True, size_max=100)
 
 app.layout = html.Div([
     dcc.Graph(

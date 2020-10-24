@@ -19,7 +19,7 @@ with open('ip_list.csv',  'w', encoding="utf-8", newline='')as wf:
     for m, n in dictonary.items():
         writer.writerow({'ip': '%s' % m, 'number': '%s' % n
                          })
-print(dictonary)
+
 # 5 China
 # 1 Ecuador
 # 4 South Korea

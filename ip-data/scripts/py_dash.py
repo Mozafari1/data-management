@@ -7,15 +7,18 @@ import pandas as pd
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
-continent = []
+country = []
 num = []
-data = {'continent': continent, 'Number of each ip´s': num}
-with open('../fixed_data/continents/continent_list.csv', encoding="utf-8", newline='') as f:
+data = {'Countries': country, 'Number of each ip´s': num}
+with open('../fixed_data/fixed_data.csv', encoding="utf-8", newline='') as f:
     reader = csv.DictReader(f)
     for row in reader:
+        if ((row['is_eu'])) == 'True':
 
-        continent.append(row['continent'])
-        num.append(int(row['number']))
+            country.append(row['country'])
+            num.append(row['is_eu'])
+        else:
+            pass
 
 
 colors = {
@@ -24,10 +27,10 @@ colors = {
 }
 
 df = pd.DataFrame(
-    data, columns=['continent', 'Number of each ip´s'])
+    data, columns=['Countries', 'Number of each ip´s'])
 
-fig = px.bar(df, x="continent", y="Number of each ip´s",
-             color="continent", barmode="group")
+fig = px.bar(df, x="Countries", y="Number of each ip´s",
+             color="Countries", barmode="group")
 
 fig.update_layout(
     plot_bgcolor=colors['background'],

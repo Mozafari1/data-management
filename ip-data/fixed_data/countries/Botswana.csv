@@ -1,0 +1,5 @@
+2020-09-06 04:47:21.589,filter,519,INFO,sshd,Found,213.193.44.13,AS16637,MTN SA,mtn.co.za,213.193.40.0/21,hosting,267,Gaborone,AF,Africa,BW,Botswana,False,-24.6437,25.9112,None,Gaborone,GA,False,False,False,False,False,False,False,200
+2020-09-06 04:47:21.592,filter,519,INFO,sshd,Found,213.193.44.13,AS16637,MTN SA,mtn.co.za,213.193.40.0/21,hosting,267,Gaborone,AF,Africa,BW,Botswana,False,-24.6437,25.9112,None,Gaborone,GA,False,False,False,False,False,False,False,200
+2020-09-06 04:47:22.105,actions,519,NOTICE,sshd,Ban,213.193.44.13,AS16637,MTN SA,mtn.co.za,213.193.40.0/21,hosting,267,Gaborone,AF,Africa,BW,Botswana,False,-24.6437,25.9112,None,Gaborone,GA,False,False,False,False,False,False,False,200
+2020-09-06 04:47:24.321,filter,519,INFO,sshd,Found,213.193.44.13,AS16637,MTN SA,mtn.co.za,213.193.40.0/21,hosting,267,Gaborone,AF,Africa,BW,Botswana,False,-24.6437,25.9112,None,Gaborone,GA,False,False,False,False,False,False,False,200
+2020-09-06 07:47:23.233,actions,519,NOTICE,sshd,Unban,213.193.44.13,AS16637,MTN SA,mtn.co.za,213.193.40.0/21,hosting,267,Gaborone,AF,Africa,BW,Botswana,False,-24.6437,25.9112,None,Gaborone,GA,False,False,False,False,False,False,False,200

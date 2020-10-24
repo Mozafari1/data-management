@@ -1,0 +1,3 @@
+2020-10-05 17:12:02.150,filter,562,INFO,sshd,Found,41.138.49.150,AS37385,Societe Nigerienne des Telecommunications (SONITEL),sonitel.ne,41.138.48.0/20,isp,227,None,AF,Africa,NE,Niger,False,16.0,8.0,None,None,None,False,False,False,False,False,False,False,200
+2020-10-05 17:12:02.766,actions,562,NOTICE,sshd,Ban,41.138.49.150,AS37385,Societe Nigerienne des Telecommunications (SONITEL),sonitel.ne,41.138.48.0/20,isp,227,None,AF,Africa,NE,Niger,False,16.0,8.0,None,None,None,False,False,False,False,False,False,False,200
+2020-10-05 20:12:02.819,actions,562,NOTICE,sshd,Unban,41.138.49.150,AS37385,Societe Nigerienne des Telecommunications (SONITEL),sonitel.ne,41.138.48.0/20,isp,227,None,AF,Africa,NE,Niger,False,16.0,8.0,None,None,None,False,False,False,False,False,False,False,200

@@ -1,0 +1,5 @@
+2020-09-27 17:20:25.373,filter,519,INFO,sshd,Found,41.242.142.194,AS22690,Axiom Networks Ltd.,axiom.net.rw,41.242.142.0/24,isp,250,None,AF,Africa,RW,Rwanda,False,-2.0,30.0,None,None,None,False,False,False,False,False,False,False,200
+2020-09-27 17:20:25.378,filter,519,INFO,sshd,Found,41.242.142.194,AS22690,Axiom Networks Ltd.,axiom.net.rw,41.242.142.0/24,isp,250,None,AF,Africa,RW,Rwanda,False,-2.0,30.0,None,None,None,False,False,False,False,False,False,False,200
+2020-09-27 17:20:25.742,actions,519,NOTICE,sshd,Ban,41.242.142.194,AS22690,Axiom Networks Ltd.,axiom.net.rw,41.242.142.0/24,isp,250,None,AF,Africa,RW,Rwanda,False,-2.0,30.0,None,None,None,False,False,False,False,False,False,False,200
+2020-09-27 17:20:26.552,filter,519,INFO,sshd,Found,41.242.142.194,AS22690,Axiom Networks Ltd.,axiom.net.rw,41.242.142.0/24,isp,250,None,AF,Africa,RW,Rwanda,False,-2.0,30.0,None,None,None,False,False,False,False,False,False,False,200
+2020-09-27 20:20:27.977,actions,519,NOTICE,sshd,Unban,41.242.142.194,AS22690,Axiom Networks Ltd.,axiom.net.rw,41.242.142.0/24,isp,250,None,AF,Africa,RW,Rwanda,False,-2.0,30.0,None,None,None,False,False,False,False,False,False,False,200

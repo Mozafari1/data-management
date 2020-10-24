@@ -1,0 +1,5 @@
+2020-09-08 18:49:18.685,filter,519,INFO,sshd,Found,89.235.201.106,AS8728,AS INFONET,infonet.ee,89.235.201.0/24,isp,372,Tallinn,EU,Europe,EE,Estonia,True,59.433,24.7323,None,Harjumaa,37,False,False,False,False,False,False,False,200
+2020-09-08 18:49:18.732,filter,519,INFO,sshd,Found,89.235.201.106,AS8728,AS INFONET,infonet.ee,89.235.201.0/24,isp,372,Tallinn,EU,Europe,EE,Estonia,True,59.433,24.7323,None,Harjumaa,37,False,False,False,False,False,False,False,200
+2020-09-08 18:49:18.919,actions,519,NOTICE,sshd,Ban,89.235.201.106,AS8728,AS INFONET,infonet.ee,89.235.201.0/24,isp,372,Tallinn,EU,Europe,EE,Estonia,True,59.433,24.7323,None,Harjumaa,37,False,False,False,False,False,False,False,200
+2020-09-08 18:49:20.615,filter,519,INFO,sshd,Found,89.235.201.106,AS8728,AS INFONET,infonet.ee,89.235.201.0/24,isp,372,Tallinn,EU,Europe,EE,Estonia,True,59.433,24.7323,None,Harjumaa,37,False,False,False,False,False,False,False,200
+2020-09-08 21:49:21.806,actions,519,NOTICE,sshd,Unban,89.235.201.106,AS8728,AS INFONET,infonet.ee,89.235.201.0/24,isp,372,Tallinn,EU,Europe,EE,Estonia,True,59.433,24.7323,None,Harjumaa,37,False,False,False,False,False,False,False,200

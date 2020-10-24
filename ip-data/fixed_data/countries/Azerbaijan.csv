@@ -1,0 +1,4 @@
+2020-09-17 09:17:46.749,filter,519,INFO,sshd,Found,185.118.48.206,AS203971,AzFiberNet Ltd.,azfiber.net,185.118.48.0/22,isp,994,None,AS,Asia,AZ,Azerbaijan,False,40.5,47.5,None,None,None,False,False,False,False,False,False,False,200
+2020-09-17 09:17:47.229,actions,519,NOTICE,sshd,Ban,185.118.48.206,AS203971,AzFiberNet Ltd.,azfiber.net,185.118.48.0/22,isp,994,None,AS,Asia,AZ,Azerbaijan,False,40.5,47.5,None,None,None,False,False,False,False,False,False,False,200
+2020-09-17 09:17:48.537,filter,519,INFO,sshd,Found,185.118.48.206,AS203971,AzFiberNet Ltd.,azfiber.net,185.118.48.0/22,isp,994,None,AS,Asia,AZ,Azerbaijan,False,40.5,47.5,None,None,None,False,False,False,False,False,False,False,200
+2020-09-17 12:17:49.477,actions,519,NOTICE,sshd,Unban,185.118.48.206,AS203971,AzFiberNet Ltd.,azfiber.net,185.118.48.0/22,isp,994,None,AS,Asia,AZ,Azerbaijan,False,40.5,47.5,None,None,None,False,False,False,False,False,False,False,200

@@ -23,7 +23,7 @@ def printRecord(ip):
     print('[+] Latitude: ' + str(lat) + ', Longitude: ' + str(longitude))
 
 
-l = ['1.36.57.85']  # 10.36.57.85 => 4
+l = ['213.199.128.219']  # 10.36.57.85 => 4
 
 for ip in l:
     if (ip == 'None'):

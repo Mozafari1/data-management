@@ -1,0 +1,4 @@
+2020-09-19 03:07:01.503,filter,519,INFO,sshd,Found,41.190.153.35,AS36997,Infocom ltd,infocom.co.ug,41.190.152.0/23,isp,256,Kampala,AF,Africa,UG,Uganda,False,0.3162,32.5657,None,Central Region,C,False,False,False,False,False,False,False,200
+2020-09-19 03:07:01.679,actions,519,NOTICE,sshd,Ban,41.190.153.35,AS36997,Infocom ltd,infocom.co.ug,41.190.152.0/23,isp,256,Kampala,AF,Africa,UG,Uganda,False,0.3162,32.5657,None,Central Region,C,False,False,False,False,False,False,False,200
+2020-09-19 03:07:03.542,filter,519,INFO,sshd,Found,41.190.153.35,AS36997,Infocom ltd,infocom.co.ug,41.190.152.0/23,isp,256,Kampala,AF,Africa,UG,Uganda,False,0.3162,32.5657,None,Central Region,C,False,False,False,False,False,False,False,200
+2020-09-19 06:07:04.703,actions,519,NOTICE,sshd,Unban,41.190.153.35,AS36997,Infocom ltd,infocom.co.ug,41.190.152.0/23,isp,256,Kampala,AF,Africa,UG,Uganda,False,0.3162,32.5657,None,Central Region,C,False,False,False,False,False,False,False,200

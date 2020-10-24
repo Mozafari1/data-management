@@ -1,0 +1,5 @@
+2020-09-26 17:50:12.194,filter,519,INFO,sshd,Found,154.126.93.138,AS37054,Telecom Malagasy,telma.mg,154.126.93.0/24,isp,261,None,AF,Africa,MG,Madagascar,False,-20.0,47.0,None,None,None,False,False,False,False,False,False,False,200
+2020-09-26 17:50:12.452,filter,519,INFO,sshd,Found,154.126.93.138,AS37054,Telecom Malagasy,telma.mg,154.126.93.0/24,isp,261,None,AF,Africa,MG,Madagascar,False,-20.0,47.0,None,None,None,False,False,False,False,False,False,False,200
+2020-09-26 17:50:12.487,actions,519,NOTICE,sshd,Ban,154.126.93.138,AS37054,Telecom Malagasy,telma.mg,154.126.93.0/24,isp,261,None,AF,Africa,MG,Madagascar,False,-20.0,47.0,None,None,None,False,False,False,False,False,False,False,200
+2020-09-26 17:50:14.405,filter,519,INFO,sshd,Found,154.126.93.138,AS37054,Telecom Malagasy,telma.mg,154.126.93.0/24,isp,261,None,AF,Africa,MG,Madagascar,False,-20.0,47.0,None,None,None,False,False,False,False,False,False,False,200
+2020-09-26 20:50:14.293,actions,519,NOTICE,sshd,Unban,154.126.93.138,AS37054,Telecom Malagasy,telma.mg,154.126.93.0/24,isp,261,None,AF,Africa,MG,Madagascar,False,-20.0,47.0,None,None,None,False,False,False,False,False,False,False,200

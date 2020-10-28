@@ -4,10 +4,10 @@ search_data = []
 found_data = []
 country_name = []
 Path_file = '../fixed_data/'
-path_1 = Path_file+'countries/'
+path_1 = Path_file+'continent/'
 col_number = 17
 
-x = 'Kuwait'
+x = 'Asia'
 
 data_in = x
 input_file_name = x

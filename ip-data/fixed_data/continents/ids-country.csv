@@ -1,0 +1,130 @@
+country,country_code,calling_code,continent
+124,China,CN,86,1
+125,South Korea,KR,82,1
+126,Philippines,PH,63,1
+127,Taiwan,TW,886,1
+128,India,IN,91,1
+129,Japan,JP,81,1
+130,Singapore,SG,65,1
+131,Thailand,TH,66,1
+132,Indonesia,ID,62,1
+133,Vietnam,VN,84,1
+134,Hong Kong,HK,852,1
+135,Syria,SY,963,1
+136,Malaysia,MY,60,1
+137,United Arab Emirates,AE,971,1
+138,Palestine,PS,970,1
+139,Uzbekistan,UZ,998,1
+140,Iran,IR,98,1
+141,Bangladesh,BD,880,1
+142,Armenia,AM,374,1
+143,Kyrgyzstan,KG,996,1
+144,Israel,IL,972,1
+145,Pakistan,PK,92,1
+146,Saudi Arabia,SA,966,1
+147,Macao,MO,853,1
+148,Kazakhstan,KZ,7,1
+149,Turkey,TR,90,1
+150,Azerbaijan,AZ,994,1
+151,Qatar,QA,974,1
+152,Sri Lanka,LK,94,1
+153,Georgia,GE,995,1
+154,Cambodia,KH,855,1
+155,Mongolia,MN,976,1
+156,Oman,OM,968,1
+157,Nepal,NP,977,1
+158,Hashemite Kingdom of Jordan,JO,962,1
+159,Lebanon,LB,961,1
+160,Myanmar,MM,95,1
+161,Laos,LA,856,1
+162,Iraq,IQ,964,1
+163,Bahrain,BH,973,1
+164,Kuwait,KW,965,1
+165,Ecuador,EC,593,2
+166,Brazil,BR,55,2
+167,Colombia,CO,57,2
+168,Chile,CL,56,2
+169,Argentina,AR,54,2
+170,Uruguay,UY,598,2
+171,Peru,PE,51,2
+172,Venezuela,VE,58,2
+173,Bolivia,BO,591,2
+174,Paraguay,PY,595,2
+175,France,FR,33,3
+176,Italy,IT,39,3
+177,Germany,DE,49,3
+178,Poland,PL,48,3
+179,Ukraine,UA,380,3
+180,Portugal,PT,351,3
+181,Republic of Lithuania,LT,370,3
+182,Netherlands,NL,31,3
+183,United Kingdom,GB,44,3
+184,Spain,ES,34,3
+185,Russia,RU,7,3
+186,Romania,RO,40,3
+187,Sweden,SE,46,3
+188,Switzerland,CH,41,3
+189,Belgium,BE,32,3
+190,Croatia,HR,385,3
+191,Bulgaria,BG,359,3
+192,Cyprus,CY,357,3
+193,Ireland,IE,353,3
+194,Denmark,DK,45,3
+195,Estonia,EE,372,3
+196,Luxembourg,LU,352,3
+197,Latvia,LV,371,3
+198,Belarus,BY,375,3
+199,Hungary,HU,36,3
+200,Norway,NO,47,3
+201,Slovenia,SI,386,3
+202,Austria,AT,43,3
+203,Czechia,CZ,420,3
+204,Finland,FI,358,3
+205,Serbia,RS,381,3
+206,None,None,None,3
+207,Greece,GR,30,3
+208,North Macedonia,MK,389,3
+209,Bosnia and Herzegovina,BA,387,3
+210,Canada,CA,1,4
+211,United States,US,1,4
+212,Panama,PA,507,4
+213,Guatemala,GT,502,4
+214,Mexico,MX,52,4
+215,Dominican Republic,DO,+1-809 and 1-829,4
+216,Bahamas,BS,+1-242,4
+217,Costa Rica,CR,506,4
+218,Guadeloupe,GP,590,4
+219,Puerto Rico,PR,+1-787 and 1-939,4
+220,Jamaica,JM,+1-876,4
+221,South Africa,ZA,27,5
+222,Seychelles,SC,248,5
+223,Botswana,BW,267,5
+224,Egypt,EG,20,5
+225,Burkina Faso,BF,226,5
+226,Algeria,DZ,213,5
+227,Morocco,MA,212,5
+228,Tunisia,TN,216,5
+229,Ethiopia,ET,251,5
+230,Kenya,KE,254,5
+231,Nigeria,NG,234,5
+232,Ivory Coast,CI,225,5
+233,Ghana,GH,233,5
+234,Mauritius,MU,230,5
+235,Senegal,SN,221,5
+236,Uganda,UG,256,5
+237,Zambia,ZM,260,5
+238,Réunion,RE,262,5
+239,Zimbabwe,ZW,263,5
+240,Benin,BJ,229,5
+241,Cameroon,CM,237,5
+242,Madagascar,MG,261,5
+243,Mozambique,MZ,258,5
+244,Rwanda,RW,250,5
+245,Tanzania,TZ,255,5
+246,Somalia,SO,252,5
+247,Sudan,SD,249,5
+248,Libya,LY,218,5
+249,Niger,NE,227,5
+250,Australia,AU,61,6
+251,New Zealand,NZ,64,6
+252,Solomon Islands,SB,677,6

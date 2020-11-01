@@ -1,0 +1,39 @@
+country,city,perform,latitude,longitude,ip
+Panama,None,Unban,9,-80,45.227.255.4
+United Kingdom,None,Unban,51.4964,-0.1224,193.228.91.123
+Panama,None,Found,9,-80,45.227.255.4
+Panama,None,Ban,9,-80,45.227.255.4
+United Kingdom,None,Found,51.4964,-0.1224,193.228.91.11
+United Kingdom,None,Ban,51.4964,-0.1224,193.228.91.11
+United Kingdom,None,Unban,51.4964,-0.1224,193.228.91.11
+United Kingdom,None,Found,51.4964,-0.1224,193.228.91.123
+United Kingdom,None,Ban,51.4964,-0.1224,193.228.91.123
+Panama,None,already banned,9,-80,45.227.255.4
+United Kingdom,None,already banned,51.4964,-0.1224,193.228.91.123
+United Kingdom,None,Found,51.4964,-0.1224,193.228.91.109
+United Kingdom,None,Ban,51.4964,-0.1224,193.228.91.109
+United Kingdom,None,already banned,51.4964,-0.1224,193.228.91.109
+United Kingdom,None,Unban,51.4964,-0.1224,193.228.91.109
+China,None,Found,34.7725,113.7266,42.194.203.226
+China,None,Ban,34.7725,113.7266,42.194.203.226
+China,None,already banned,34.7725,113.7266,42.194.203.226
+China,None,Unban,34.7725,113.7266,42.194.203.226
+United Kingdom,None,Found,51.4964,-0.1224,193.228.91.108
+United Kingdom,None,Ban,51.4964,-0.1224,193.228.91.108
+United Kingdom,None,Unban,51.4964,-0.1224,193.228.91.108
+China,None,Found,34.7725,113.7266,42.194.163.213
+China,None,Ban,34.7725,113.7266,42.194.163.213
+China,None,Unban,34.7725,113.7266,42.194.163.213
+China,None,Found,34.7725,113.7266,42.194.211.37
+China,None,Ban,34.7725,113.7266,42.194.211.37
+China,None,Unban,34.7725,113.7266,42.194.211.37
+United States,Miami,Found,25.7741,-80.1817,155.235.2.252
+United States,Miami,Ban,25.7741,-80.1817,155.235.2.252
+United States,Miami,Unban,25.7741,-80.1817,155.235.2.252
+United Kingdom,None,Found,51.4964,-0.1224,193.228.91.110
+United Kingdom,None,Ban,51.4964,-0.1224,193.228.91.110
+United Kingdom,None,already banned,51.4964,-0.1224,193.228.91.110
+United Kingdom,None,Unban,51.4964,-0.1224,193.228.91.110
+China,None,Found,34.7725,113.7266,42.194.135.233
+China,None,Ban,34.7725,113.7266,42.194.135.233
+China,None,Unban,34.7725,113.7266,42.194.135.233

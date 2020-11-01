@@ -1,0 +1,83 @@
+country,city,perform,latitude,longitude,ip
+0,None,Ban,0,0,
+United Kingdom,London,Found,51.4805,-0.0113,141.98.252.163
+United Kingdom,London,Ban,51.4805,-0.0113,141.98.252.163
+Poland,None,Found,52.2394,21.0362,193.169.254.91
+Poland,None,Ban,52.2394,21.0362,193.169.254.91
+France,None,Found,48.8582,2.3387,51.77.135.89
+France,None,Ban,48.8582,2.3387,51.77.135.89
+Spain,Madrid,Found,40.4165,-3.7026,195.206.107.147
+Spain,Madrid,Ban,40.4165,-3.7026,195.206.107.147
+United Kingdom,London,Unban,51.4805,-0.0113,141.98.252.163
+Poland,None,Unban,52.2394,21.0362,193.169.254.91
+France,None,Unban,48.8582,2.3387,51.77.135.89
+Spain,Madrid,Unban,40.4165,-3.7026,195.206.107.147
+France,None,Found,48.8582,2.3387,51.83.69.84
+France,None,Ban,48.8582,2.3387,51.83.69.84
+France,None,Unban,48.8582,2.3387,51.83.69.84
+China,Haidian,Found,39.9906,116.2887,117.158.78.5
+China,Haidian,Ban,39.9906,116.2887,117.158.78.5
+China,Haidian,Unban,39.9906,116.2887,117.158.78.5
+Romania,None,Found,45.9968,24.997,185.247.224.42
+Romania,None,Ban,45.9968,24.997,185.247.224.42
+France,None,Found,48.8582,2.3387,51.254.143.96
+France,None,Ban,48.8582,2.3387,51.254.143.96
+Romania,None,Found,45.9968,24.997,185.247.224.11
+Romania,None,Ban,45.9968,24.997,185.247.224.11
+United States,None,Found,37.751,-97.822,51.81.238.116
+United States,None,Ban,37.751,-97.822,51.81.238.116
+Romania,None,Found,45.9968,24.997,185.247.224.21
+Romania,None,Ban,45.9968,24.997,185.247.224.21
+Romania,None,already banned,45.9968,24.997,185.247.224.21
+Romania,None,Unban,45.9968,24.997,185.247.224.42
+France,None,Unban,48.8582,2.3387,51.254.143.96
+Romania,None,Unban,45.9968,24.997,185.247.224.11
+United States,None,Unban,37.751,-97.822,51.81.238.116
+Romania,None,Unban,45.9968,24.997,185.247.224.21
+Romania,None,Found,45.9968,24.997,185.247.224.22
+Romania,None,Ban,45.9968,24.997,185.247.224.22
+Romania,None,Found,45.9968,24.997,185.247.224.63
+Romania,None,Ban,45.9968,24.997,185.247.224.63
+Hong Kong,Central,Found,22.2795,114.146,221.124.111.111
+Hong Kong,Central,Ban,22.2795,114.146,221.124.111.111
+Romania,None,Unban,45.9968,24.997,185.247.224.22
+Romania,None,Unban,45.9968,24.997,185.247.224.63
+Hong Kong,Central,Unban,22.2795,114.146,221.124.111.111
+Ukraine,None,Found,50.4522,30.5287,193.218.118.130
+Ukraine,None,Ban,50.4522,30.5287,193.218.118.130
+Ukraine,None,Unban,50.4522,30.5287,193.218.118.130
+United States,None,Found,37.751,-97.822,67.198.205.176
+United States,None,Ban,37.751,-97.822,67.198.205.176
+United States,None,Unban,37.751,-97.822,67.198.205.176
+Sweden,Stockholm,Found,59.3333,18.05,45.15.16.115
+Sweden,Stockholm,Ban,59.3333,18.05,45.15.16.115
+United States,None,Found,37.751,-97.822,198.251.89.136
+United States,None,Ban,37.751,-97.822,198.251.89.136
+Sweden,Stockholm,Unban,59.3333,18.05,45.15.16.115
+United States,None,Unban,37.751,-97.822,198.251.89.136
+United States,North Bergen,Found,40.793,-74.0247,157.230.2.208
+United States,North Bergen,Ban,40.793,-74.0247,157.230.2.208
+United States,North Bergen,Unban,40.793,-74.0247,157.230.2.208
+China,None,Found,34.7725,113.7266,203.195.131.162
+China,None,Ban,34.7725,113.7266,203.195.131.162
+China,None,Unban,34.7725,113.7266,203.195.131.162
+France,Paris,Found,48.8579,2.3491,51.68.91.191
+France,Paris,Ban,48.8579,2.3491,51.68.91.191
+France,Paris,Unban,48.8579,2.3491,51.68.91.191
+Vietnam,Quan Phu Nhuan,Found,10.7948,106.6763,115.79.196.85
+Vietnam,Quan Phu Nhuan,Ban,10.7948,106.6763,115.79.196.85
+Vietnam,Quan Phu Nhuan,Unban,10.7948,106.6763,115.79.196.85
+Singapore,None,Found,1.314,103.6839,188.166.223.100
+Singapore,None,Ban,1.314,103.6839,188.166.223.100
+Singapore,None,already banned,1.314,103.6839,188.166.223.100
+Singapore,None,Unban,1.314,103.6839,188.166.223.100
+Russia,St Petersburg,Found,59.8944,30.2642,94.25.228.208
+Russia,St Petersburg,Ban,59.8944,30.2642,94.25.228.208
+Russia,St Petersburg,already banned,59.8944,30.2642,94.25.228.208
+Russia,St Petersburg,Unban,59.8944,30.2642,94.25.228.208
+Indonesia,Jakarta,Found,-6.1741,106.8296,101.255.65.138
+Indonesia,Jakarta,Ban,-6.1741,106.8296,101.255.65.138
+Indonesia,Jakarta,Unban,-6.1741,106.8296,101.255.65.138
+Colombia,Bogot?�,Found,4.6493,-74.0617,186.170.28.46
+Colombia,Bogot?�,Ban,4.6493,-74.0617,186.170.28.46
+Colombia,Bogot?�,Unban,4.6493,-74.0617,186.170.28.46

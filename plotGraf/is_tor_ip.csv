@@ -1,0 +1,657 @@
+country,city,perform,latitude,longitude,is_known_attacker
+Germany,None,Found,51.2993,9.491,185.220.102.244
+Germany,None,Ban,51.2993,9.491,185.220.102.244
+Germany,None,Found,51.2993,9.491,185.220.102.244
+Netherlands,s-Hertogenbosch,Found,51.6906,5.2755,77.247.181.165
+Netherlands,s-Hertogenbosch,Ban,51.6906,5.2755,77.247.181.165
+Netherlands,s-Hertogenbosch,Found,51.6906,5.2755,77.247.181.165
+Netherlands,Amsterdam,Found,52.3759,4.8975,192.42.116.23
+Netherlands,Amsterdam,Ban,52.3759,4.8975,192.42.116.23
+Netherlands,Amsterdam,Found,52.3759,4.8975,192.42.116.23
+United States,Phoenix,Found,33.4532,-112.0748,104.244.75.53
+United States,Phoenix,Ban,33.4532,-112.0748,104.244.75.53
+United States,Phoenix,Found,33.4532,-112.0748,104.244.75.53
+Germany,None,Found,51.2993,9.491,185.220.101.15
+Germany,None,Ban,51.2993,9.491,185.220.101.15
+Germany,None,Found,51.2993,9.491,185.220.101.15
+Germany,None,Found,51.2993,9.491,185.220.102.254
+Germany,None,Ban,51.2993,9.491,185.220.102.254
+Germany,None,Found,51.2993,9.491,185.220.102.254
+United States,San Jose,Found,37.3387,-121.8914,205.185.125.216
+United States,San Jose,Ban,37.3387,-121.8914,205.185.125.216
+United States,San Jose,Found,37.3387,-121.8914,205.185.125.216
+Germany,None,Found,51.2993,9.491,185.220.101.205
+Germany,None,Ban,51.2993,9.491,185.220.101.205
+Germany,None,Found,51.2993,9.491,185.220.101.205
+France,None,Found,48.8582,2.3387,51.75.64.187
+France,None,Ban,48.8582,2.3387,51.75.64.187
+France,None,Found,48.8582,2.3387,51.75.64.187
+France,None,Found,48.8582,2.3387,45.154.168.201
+France,None,Ban,48.8582,2.3387,45.154.168.201
+France,None,Found,48.8582,2.3387,45.154.168.201
+France,None,already banned,48.8582,2.3387,45.154.168.201
+United States,None,Found,37.751,-97.822,23.129.64.205
+United States,None,Ban,37.751,-97.822,23.129.64.205
+United States,None,Found,37.751,-97.822,23.129.64.205
+United States,None,Found,37.751,-97.822,23.129.64.186
+United States,None,Ban,37.751,-97.822,23.129.64.186
+United States,None,Found,37.751,-97.822,23.129.64.186
+United States,None,already banned,37.751,-97.822,23.129.64.186
+Germany,None,Found,51.2993,9.491,185.170.114.25
+Germany,None,Ban,51.2993,9.491,185.170.114.25
+Germany,None,Found,51.2993,9.491,185.170.114.25
+Germany,None,already banned,51.2993,9.491,185.170.114.25
+United States,None,Found,37.751,-97.822,23.129.64.208
+United States,None,Ban,37.751,-97.822,23.129.64.208
+United States,None,Found,37.751,-97.822,23.129.64.208
+Netherlands,Haarlem,Found,52.3812,4.6361,51.15.43.205
+Netherlands,Haarlem,Ban,52.3812,4.6361,51.15.43.205
+Netherlands,Haarlem,Found,52.3812,4.6361,51.15.43.205
+Germany,None,Found,51.2993,9.491,185.220.102.247
+Germany,None,Ban,51.2993,9.491,185.220.102.247
+Germany,None,Found,51.2993,9.491,185.220.102.247
+Sweden,None,Found,59.3247,18.056,62.102.148.68
+Sweden,None,Ban,59.3247,18.056,62.102.148.68
+Sweden,None,Found,59.3247,18.056,62.102.148.68
+Netherlands,s-Hertogenbosch,Found,51.6906,5.2755,77.247.181.162
+Netherlands,s-Hertogenbosch,Ban,51.6906,5.2755,77.247.181.162
+Netherlands,s-Hertogenbosch,Found,51.6906,5.2755,77.247.181.162
+Germany,None,Found,51.2993,9.491,185.220.101.8
+Germany,None,Ban,51.2993,9.491,185.220.101.8
+Germany,None,Found,51.2993,9.491,185.220.101.8
+Switzerland,Zurich,Found,47.394,8.445,195.206.105.217
+Switzerland,Zurich,Ban,47.394,8.445,195.206.105.217
+Switzerland,Zurich,Found,47.394,8.445,195.206.105.217
+Sweden,None,Found,59.3247,18.056,171.25.193.20
+Sweden,None,Ban,59.3247,18.056,171.25.193.20
+Sweden,None,Found,59.3247,18.056,171.25.193.20
+Sweden,None,already banned,59.3247,18.056,171.25.193.20
+Germany,None,Found,51.2993,9.491,185.220.101.16
+Germany,None,Ban,51.2993,9.491,185.220.101.16
+Germany,None,Found,51.2993,9.491,185.220.101.16
+Germany,None,already banned,51.2993,9.491,185.220.101.16
+United States,None,Found,37.751,-97.822,23.160.208.248
+United States,None,Ban,37.751,-97.822,23.160.208.248
+United States,None,Found,37.751,-97.822,23.160.208.248
+United States,None,already banned,37.751,-97.822,23.160.208.248
+Germany,None,Found,51.2993,9.491,185.220.102.245
+Germany,None,Ban,51.2993,9.491,185.220.102.245
+Germany,None,Found,51.2993,9.491,185.220.102.245
+United States,Las Vegas,Found,36.1685,-115.1164,209.141.40.46
+United States,Las Vegas,Ban,36.1685,-115.1164,209.141.40.46
+United States,Las Vegas,Found,36.1685,-115.1164,209.141.40.46
+United States,None,Found,37.751,-97.822,107.189.11.163
+United States,None,Ban,37.751,-97.822,107.189.11.163
+United States,None,Found,37.751,-97.822,107.189.11.163
+Germany,None,Found,51.2993,9.491,185.220.102.251
+Germany,None,Ban,51.2993,9.491,185.220.102.251
+Germany,None,Found,51.2993,9.491,185.220.102.251
+Ukraine,Kharkiv,Found,49.982,36.2566,178.165.72.177
+Ukraine,Kharkiv,Ban,49.982,36.2566,178.165.72.177
+Ukraine,Kharkiv,Found,49.982,36.2566,178.165.72.177
+Ukraine,Kharkiv,already banned,49.982,36.2566,178.165.72.177
+United States,None,Found,37.751,-97.822,162.247.72.199
+United States,None,Ban,37.751,-97.822,162.247.72.199
+United States,None,Found,37.751,-97.822,162.247.72.199
+United States,None,Found,37.751,-97.822,162.247.74.200
+United States,None,Ban,37.751,-97.822,162.247.74.200
+United States,None,Found,37.751,-97.822,162.247.74.200
+United States,None,Found,37.751,-97.822,162.247.74.206
+United States,None,Ban,37.751,-97.822,162.247.74.206
+United States,None,Found,37.751,-97.822,162.247.74.206
+France,None,Found,48.8582,2.3387,51.75.52.118
+France,None,Ban,48.8582,2.3387,51.75.52.118
+France,None,Found,48.8582,2.3387,51.75.52.118
+Germany,None,Unban,51.2993,9.491,185.220.102.244
+Netherlands,s-Hertogenbosch,Unban,51.6906,5.2755,77.247.181.165
+Netherlands,Amsterdam,Unban,52.3759,4.8975,192.42.116.23
+United States,Phoenix,Unban,33.4532,-112.0748,104.244.75.53
+Germany,None,Unban,51.2993,9.491,185.220.101.15
+Germany,None,Unban,51.2993,9.491,185.220.102.254
+United States,San Jose,Unban,37.3387,-121.8914,205.185.125.216
+Germany,None,Unban,51.2993,9.491,185.220.101.205
+France,None,Unban,48.8582,2.3387,51.75.64.187
+France,None,Unban,48.8582,2.3387,45.154.168.201
+United States,None,Unban,37.751,-97.822,23.129.64.205
+United States,None,Unban,37.751,-97.822,23.129.64.186
+Germany,None,Unban,51.2993,9.491,185.170.114.25
+United States,None,Unban,37.751,-97.822,23.129.64.208
+Netherlands,Haarlem,Unban,52.3812,4.6361,51.15.43.205
+Germany,None,Unban,51.2993,9.491,185.220.102.247
+Sweden,None,Unban,59.3247,18.056,62.102.148.68
+Netherlands,s-Hertogenbosch,Unban,51.6906,5.2755,77.247.181.162
+Germany,None,Unban,51.2993,9.491,185.220.101.8
+Switzerland,Zurich,Unban,47.394,8.445,195.206.105.217
+Sweden,None,Unban,59.3247,18.056,171.25.193.20
+Germany,None,Unban,51.2993,9.491,185.220.101.16
+United States,None,Unban,37.751,-97.822,23.160.208.248
+Germany,None,Unban,51.2993,9.491,185.220.102.245
+United States,Las Vegas,Unban,36.1685,-115.1164,209.141.40.46
+United States,None,Unban,37.751,-97.822,107.189.11.163
+Germany,None,Unban,51.2993,9.491,185.220.102.251
+Ukraine,Kharkiv,Unban,49.982,36.2566,178.165.72.177
+United States,None,Unban,37.751,-97.822,162.247.72.199
+United States,None,Unban,37.751,-97.822,162.247.74.200
+United States,None,Unban,37.751,-97.822,162.247.74.206
+France,None,Unban,48.8582,2.3387,51.75.52.118
+United States,None,Found,37.751,-97.822,162.247.74.200
+United States,None,Ban,37.751,-97.822,162.247.74.200
+United States,None,Unban,37.751,-97.822,162.247.74.200
+Netherlands,Amsterdam,Found,52.3759,4.8975,192.42.116.19
+Netherlands,Amsterdam,Found,52.3759,4.8975,192.42.116.19
+Netherlands,Amsterdam,Ban,52.3759,4.8975,192.42.116.19
+Netherlands,Amsterdam,Found,52.3759,4.8975,192.42.116.19
+Germany,None,Found,51.2993,9.491,185.220.101.207
+Germany,None,Found,51.2993,9.491,185.220.101.207
+Germany,None,Ban,51.2993,9.491,185.220.101.207
+Germany,None,Found,51.2993,9.491,185.220.101.207
+Netherlands,Amsterdam,Unban,52.3759,4.8975,192.42.116.19
+Germany,None,Unban,51.2993,9.491,185.220.101.207
+Netherlands,Amsterdam,Found,52.3759,4.8975,192.42.116.16
+Netherlands,Amsterdam,Ban,52.3759,4.8975,192.42.116.16
+Netherlands,Amsterdam,Found,52.3759,4.8975,192.42.116.16
+France,Paris,Found,48.8579,2.3491,212.83.166.62
+France,Paris,Ban,48.8579,2.3491,212.83.166.62
+France,Paris,Found,48.8579,2.3491,212.83.166.62
+France,Paris,already banned,48.8579,2.3491,212.83.166.62
+Sweden,None,Found,59.3247,18.056,171.25.193.25
+Sweden,None,Ban,59.3247,18.056,171.25.193.25
+Sweden,None,Found,59.3247,18.056,171.25.193.25
+United States,None,Found,37.751,-97.822,162.247.74.213
+United States,None,Ban,37.751,-97.822,162.247.74.213
+United States,None,Found,37.751,-97.822,162.247.74.213
+United States,None,already banned,37.751,-97.822,162.247.74.213
+Sweden,None,Found,59.3247,18.056,171.25.193.20
+Sweden,None,Ban,59.3247,18.056,171.25.193.20
+Sweden,None,Found,59.3247,18.056,171.25.193.20
+United States,None,Found,37.751,-97.822,162.247.74.201
+United States,None,Ban,37.751,-97.822,162.247.74.201
+United States,None,Found,37.751,-97.822,162.247.74.201
+United States,None,already banned,37.751,-97.822,162.247.74.201
+France,None,Found,48.8582,2.3387,212.47.229.4
+France,None,Ban,48.8582,2.3387,212.47.229.4
+France,None,Found,48.8582,2.3387,212.47.229.4
+Netherlands,Amsterdam,Found,52.3759,4.8975,94.102.51.78
+Netherlands,Amsterdam,Ban,52.3759,4.8975,94.102.51.78
+Netherlands,Amsterdam,Found,52.3759,4.8975,94.102.51.78
+Germany,None,Found,51.2993,9.491,185.220.101.8
+Germany,None,Ban,51.2993,9.491,185.220.101.8
+Germany,None,Found,51.2993,9.491,185.220.101.8
+Germany,None,already banned,51.2993,9.491,185.220.101.8
+United States,None,Found,37.751,-97.822,23.129.64.192
+United States,None,Ban,37.751,-97.822,23.129.64.192
+United States,None,Found,37.751,-97.822,23.129.64.192
+Germany,None,Found,51.2993,9.491,185.220.101.211
+Germany,None,Ban,51.2993,9.491,185.220.101.211
+Germany,None,Found,51.2993,9.491,185.220.101.211
+Germany,None,already banned,51.2993,9.491,185.220.101.211
+United States,None,Found,37.751,-97.822,162.247.74.74
+United States,None,Ban,37.751,-97.822,162.247.74.74
+United States,None,Found,37.751,-97.822,162.247.74.74
+United States,None,Found,37.751,-97.822,23.129.64.216
+United States,None,Ban,37.751,-97.822,23.129.64.216
+United States,None,Found,37.751,-97.822,23.129.64.216
+France,Saint-Maur-des-Foss?�s,Found,48.7954,2.4947,178.20.55.16
+France,Saint-Maur-des-Foss?�s,Ban,48.7954,2.4947,178.20.55.16
+France,Saint-Maur-des-Foss?�s,Found,48.7954,2.4947,178.20.55.16
+Germany,None,Found,51.2993,9.491,185.220.102.254
+Germany,None,Ban,51.2993,9.491,185.220.102.254
+Germany,None,Found,51.2993,9.491,185.220.102.254
+United States,Cambridge,Found,42.3649,-71.0987,18.27.197.252
+United States,Cambridge,Ban,42.3649,-71.0987,18.27.197.252
+United States,Cambridge,Found,42.3649,-71.0987,18.27.197.252
+Netherlands,Haarlem,Found,52.3812,4.6361,51.15.43.205
+Netherlands,Haarlem,Ban,52.3812,4.6361,51.15.43.205
+Netherlands,Haarlem,Found,52.3812,4.6361,51.15.43.205
+Sweden,None,Found,59.3247,18.056,193.239.232.101
+Sweden,None,Ban,59.3247,18.056,193.239.232.101
+Sweden,None,Found,59.3247,18.056,193.239.232.101
+Germany,None,Found,51.2993,9.491,185.220.101.195
+Germany,None,Ban,51.2993,9.491,185.220.101.195
+Germany,None,Found,51.2993,9.491,185.220.101.195
+France,None,Found,48.8582,2.3387,145.239.92.26
+France,None,Ban,48.8582,2.3387,145.239.92.26
+France,None,Found,48.8582,2.3387,145.239.92.26
+France,None,Found,48.8582,2.3387,217.182.192.217
+France,None,Ban,48.8582,2.3387,217.182.192.217
+France,None,Found,48.8582,2.3387,217.182.192.217
+France,None,already banned,48.8582,2.3387,217.182.192.217
+Denmark,None,Found,55.7123,12.0564,185.38.175.71
+Denmark,None,Ban,55.7123,12.0564,185.38.175.71
+Denmark,None,Found,55.7123,12.0564,185.38.175.71
+Germany,None,Found,51.2993,9.491,185.220.102.252
+Germany,None,Ban,51.2993,9.491,185.220.102.252
+Germany,None,Found,51.2993,9.491,185.220.102.252
+Luxembourg,None,Found,49.4958,5.9806,85.93.218.204
+Luxembourg,None,Ban,49.4958,5.9806,85.93.218.204
+Luxembourg,None,Found,49.4958,5.9806,85.93.218.204
+United States,None,Found,37.751,-97.822,107.189.11.163
+United States,None,Ban,37.751,-97.822,107.189.11.163
+United States,None,Found,37.751,-97.822,107.189.11.163
+United States,None,already banned,37.751,-97.822,107.189.11.163
+Canada,None,Found,43.6319,-79.3716,198.96.155.3
+Canada,None,Ban,43.6319,-79.3716,198.96.155.3
+Canada,None,Found,43.6319,-79.3716,198.96.155.3
+United States,None,Found,37.751,-97.822,162.247.74.202
+United States,None,Ban,37.751,-97.822,162.247.74.202
+United States,None,Found,37.751,-97.822,162.247.74.202
+Romania,None,Found,45.9968,24.997,91.250.242.12
+Romania,None,Ban,45.9968,24.997,91.250.242.12
+Romania,None,Found,45.9968,24.997,91.250.242.12
+France,None,Found,48.8582,2.3387,79.137.79.167
+France,None,Ban,48.8582,2.3387,79.137.79.167
+France,None,Found,48.8582,2.3387,79.137.79.167
+Germany,None,Found,51.2993,9.491,185.220.102.253
+Germany,None,Ban,51.2993,9.491,185.220.102.253
+Germany,None,Found,51.2993,9.491,185.220.102.253
+Romania,None,Found,45.9968,24.997,188.213.49.176
+Romania,None,Ban,45.9968,24.997,188.213.49.176
+Romania,None,Found,45.9968,24.997,188.213.49.176
+Romania,None,already banned,45.9968,24.997,188.213.49.176
+United States,None,Found,37.751,-97.822,162.247.74.217
+United States,None,Ban,37.751,-97.822,162.247.74.217
+United States,None,Found,37.751,-97.822,162.247.74.217
+France,None,Found,48.8582,2.3387,145.239.82.87
+France,None,Ban,48.8582,2.3387,145.239.82.87
+France,None,Found,48.8582,2.3387,145.239.82.87
+Netherlands,Amsterdam,Found,52.3759,4.8975,192.42.116.17
+Netherlands,Amsterdam,Found,52.3759,4.8975,192.42.116.17
+Netherlands,Amsterdam,Ban,52.3759,4.8975,192.42.116.17
+Netherlands,Amsterdam,Found,52.3759,4.8975,192.42.116.17
+Germany,None,Found,51.2993,9.491,185.220.102.4
+Germany,None,Found,51.2993,9.491,185.220.102.4
+Germany,None,Ban,51.2993,9.491,185.220.102.4
+Germany,None,Found,51.2993,9.491,185.220.102.4
+Netherlands,Amsterdam,Unban,52.3759,4.8975,192.42.116.16
+France,Paris,Unban,48.8579,2.3491,212.83.166.62
+Sweden,None,Unban,59.3247,18.056,171.25.193.25
+United States,None,Unban,37.751,-97.822,162.247.74.213
+Sweden,None,Unban,59.3247,18.056,171.25.193.20
+United States,None,Unban,37.751,-97.822,162.247.74.201
+France,None,Unban,48.8582,2.3387,212.47.229.4
+Netherlands,Amsterdam,Unban,52.3759,4.8975,94.102.51.78
+Germany,None,Unban,51.2993,9.491,185.220.101.8
+United States,None,Unban,37.751,-97.822,23.129.64.192
+Germany,None,Unban,51.2993,9.491,185.220.101.211
+United States,None,Unban,37.751,-97.822,162.247.74.74
+United States,None,Unban,37.751,-97.822,23.129.64.216
+France,Saint-Maur-des-Foss?�s,Unban,48.7954,2.4947,178.20.55.16
+Germany,None,Unban,51.2993,9.491,185.220.102.254
+United States,Cambridge,Unban,42.3649,-71.0987,18.27.197.252
+Netherlands,Haarlem,Unban,52.3812,4.6361,51.15.43.205
+Sweden,None,Unban,59.3247,18.056,193.239.232.101
+Germany,None,Unban,51.2993,9.491,185.220.101.195
+France,None,Unban,48.8582,2.3387,145.239.92.26
+France,None,Unban,48.8582,2.3387,217.182.192.217
+Denmark,None,Unban,55.7123,12.0564,185.38.175.71
+Germany,None,Unban,51.2993,9.491,185.220.102.252
+Luxembourg,None,Unban,49.4958,5.9806,85.93.218.204
+United States,None,Unban,37.751,-97.822,107.189.11.163
+Canada,None,Unban,43.6319,-79.3716,198.96.155.3
+United States,None,Unban,37.751,-97.822,162.247.74.202
+Romania,None,Unban,45.9968,24.997,91.250.242.12
+France,None,Unban,48.8582,2.3387,79.137.79.167
+Germany,None,Unban,51.2993,9.491,185.220.102.253
+Romania,None,Unban,45.9968,24.997,188.213.49.176
+United States,None,Unban,37.751,-97.822,162.247.74.217
+France,None,Unban,48.8582,2.3387,145.239.82.87
+Netherlands,Amsterdam,Unban,52.3759,4.8975,192.42.116.17
+Germany,None,Unban,51.2993,9.491,185.220.102.4
+Romania,Bucharest,Found,44.4333,26.1,185.100.87.41
+Romania,Bucharest,Ban,44.4333,26.1,185.100.87.41
+Poland,Warsaw,Found,52.2488,21.0024,51.83.129.84
+Poland,Warsaw,Ban,52.2488,21.0024,51.83.129.84
+Romania,Bucharest,Unban,44.4333,26.1,185.100.87.41
+Poland,Warsaw,Unban,52.2488,21.0024,51.83.129.84
+United States,None,Found,37.751,-97.822,23.129.64.197
+United States,None,Found,37.751,-97.822,23.129.64.197
+United States,None,Ban,37.751,-97.822,23.129.64.197
+United States,None,Found,37.751,-97.822,23.129.64.197
+United States,Las Vegas,Found,36.1685,-115.1164,209.141.54.153
+United States,Las Vegas,Ban,36.1685,-115.1164,209.141.54.153
+United States,None,Unban,37.751,-97.822,23.129.64.197
+United States,Las Vegas,Unban,36.1685,-115.1164,209.141.54.153
+Netherlands,Amsterdam,Found,52.3759,4.8975,192.42.116.16
+Netherlands,Amsterdam,Found,52.3759,4.8975,192.42.116.16
+Netherlands,Amsterdam,Ban,52.3759,4.8975,192.42.116.16
+Netherlands,Amsterdam,Found,52.3759,4.8975,192.42.116.16
+France,None,Found,48.8582,2.3387,51.83.139.55
+France,None,Found,48.8582,2.3387,51.83.139.55
+France,None,Ban,48.8582,2.3387,51.83.139.55
+France,None,Found,48.8582,2.3387,51.83.139.55
+Poland,Warsaw,Found,52.2488,21.0024,51.83.129.84
+Poland,Warsaw,Ban,52.2488,21.0024,51.83.129.84
+Poland,Warsaw,Found,52.2488,21.0024,51.83.129.84
+Netherlands,Amsterdam,Found,52.3759,4.8975,192.42.116.26
+Netherlands,Amsterdam,Ban,52.3759,4.8975,192.42.116.26
+Netherlands,Amsterdam,Found,52.3759,4.8975,192.42.116.26
+Germany,None,Found,51.2993,9.491,51.75.144.43
+Germany,None,Ban,51.2993,9.491,51.75.144.43
+Germany,None,Found,51.2993,9.491,51.75.144.43
+Luxembourg,Roost,Found,49.7867,6.0961,104.244.79.241
+Luxembourg,Roost,Ban,49.7867,6.0961,104.244.79.241
+Luxembourg,Roost,Found,49.7867,6.0961,104.244.79.241
+Germany,None,Found,51.2993,9.491,185.220.102.246
+Germany,None,Ban,51.2993,9.491,185.220.102.246
+Germany,None,Found,51.2993,9.491,185.220.102.246
+United States,None,Found,37.751,-97.822,23.129.64.216
+United States,None,Ban,37.751,-97.822,23.129.64.216
+United States,None,Found,37.751,-97.822,23.129.64.216
+Germany,None,Found,51.2993,9.491,185.220.102.242
+Germany,None,Ban,51.2993,9.491,185.220.102.242
+Germany,None,Found,51.2993,9.491,185.220.102.242
+Norway,None,Found,59.9452,10.7559,217.170.205.14
+Norway,None,Ban,59.9452,10.7559,217.170.205.14
+Norway,None,Found,59.9452,10.7559,217.170.205.14
+Germany,None,Found,51.2993,9.491,185.220.101.206
+Germany,None,Ban,51.2993,9.491,185.220.101.206
+Germany,None,Found,51.2993,9.491,185.220.101.206
+India,New Delhi,Found,28.6327,77.2198,144.168.164.26
+India,New Delhi,Ban,28.6327,77.2198,144.168.164.26
+India,New Delhi,Found,28.6327,77.2198,144.168.164.26
+Germany,None,Found,51.2993,9.491,185.220.101.203
+Germany,None,Ban,51.2993,9.491,185.220.101.203
+Germany,None,Found,51.2993,9.491,185.220.101.203
+France,Montrouge,Found,48.8175,2.3167,95.128.43.164
+France,Montrouge,Ban,48.8175,2.3167,95.128.43.164
+France,Montrouge,Found,48.8175,2.3167,95.128.43.164
+Netherlands,Amsterdam,Found,52.3759,4.8975,192.42.116.14
+Netherlands,Amsterdam,Ban,52.3759,4.8975,192.42.116.14
+Netherlands,Amsterdam,Found,52.3759,4.8975,192.42.116.14
+Germany,None,Found,51.2993,9.491,185.220.101.16
+Germany,None,Ban,51.2993,9.491,185.220.101.16
+Germany,None,Found,51.2993,9.491,185.220.101.16
+Germany,None,Found,51.2993,9.491,185.220.101.200
+Germany,None,Ban,51.2993,9.491,185.220.101.200
+Germany,None,Found,51.2993,9.491,185.220.101.200
+United States,None,Found,37.751,-97.822,23.129.64.186
+United States,None,Ban,37.751,-97.822,23.129.64.186
+United States,None,Found,37.751,-97.822,23.129.64.186
+Norway,Oslo,Found,59.8457,10.7823,217.170.206.146
+Norway,Oslo,Ban,59.8457,10.7823,217.170.206.146
+Norway,Oslo,Found,59.8457,10.7823,217.170.206.146
+United States,None,Found,37.751,-97.822,162.247.72.199
+United States,None,Ban,37.751,-97.822,162.247.72.199
+United States,None,Found,37.751,-97.822,162.247.72.199
+United States,Cambridge,Found,42.3649,-71.0987,18.27.197.252
+United States,Cambridge,Ban,42.3649,-71.0987,18.27.197.252
+United States,Cambridge,Found,42.3649,-71.0987,18.27.197.252
+France,None,Found,48.8582,2.3387,51.75.64.187
+France,None,Ban,48.8582,2.3387,51.75.64.187
+France,None,Found,48.8582,2.3387,51.75.64.187
+United States,None,Found,37.751,-97.822,23.129.64.192
+United States,None,Ban,37.751,-97.822,23.129.64.192
+United States,None,Found,37.751,-97.822,23.129.64.192
+United States,None,already banned,37.751,-97.822,23.129.64.192
+United States,Phoenix,Found,33.4532,-112.0748,104.244.75.153
+United States,Phoenix,Ban,33.4532,-112.0748,104.244.75.153
+United States,Phoenix,Found,33.4532,-112.0748,104.244.75.153
+United States,Phoenix,already banned,33.4532,-112.0748,104.244.75.153
+United States,None,Found,37.751,-97.822,162.247.74.202
+United States,None,Ban,37.751,-97.822,162.247.74.202
+United States,None,Found,37.751,-97.822,162.247.74.202
+Denmark,None,Found,55.7123,12.0564,185.129.62.62
+Denmark,None,Ban,55.7123,12.0564,185.129.62.62
+Denmark,None,Found,55.7123,12.0564,185.129.62.62
+Netherlands,Amsterdam,Unban,52.3759,4.8975,192.42.116.16
+France,None,Unban,48.8582,2.3387,51.83.139.55
+Poland,Warsaw,Unban,52.2488,21.0024,51.83.129.84
+Netherlands,Amsterdam,Unban,52.3759,4.8975,192.42.116.26
+Germany,None,Unban,51.2993,9.491,51.75.144.43
+Luxembourg,Roost,Unban,49.7867,6.0961,104.244.79.241
+Germany,None,Unban,51.2993,9.491,185.220.102.246
+United States,None,Unban,37.751,-97.822,23.129.64.216
+Germany,None,Unban,51.2993,9.491,185.220.102.242
+Norway,None,Unban,59.9452,10.7559,217.170.205.14
+Germany,None,Unban,51.2993,9.491,185.220.101.206
+India,New Delhi,Unban,28.6327,77.2198,144.168.164.26
+Germany,None,Unban,51.2993,9.491,185.220.101.203
+France,Montrouge,Unban,48.8175,2.3167,95.128.43.164
+Netherlands,Amsterdam,Unban,52.3759,4.8975,192.42.116.14
+Germany,None,Unban,51.2993,9.491,185.220.101.16
+Germany,None,Unban,51.2993,9.491,185.220.101.200
+United States,None,Unban,37.751,-97.822,23.129.64.186
+Norway,Oslo,Unban,59.8457,10.7823,217.170.206.146
+United States,None,Unban,37.751,-97.822,162.247.72.199
+United States,Cambridge,Unban,42.3649,-71.0987,18.27.197.252
+France,None,Unban,48.8582,2.3387,51.75.64.187
+United States,None,Unban,37.751,-97.822,23.129.64.192
+United States,Phoenix,Unban,33.4532,-112.0748,104.244.75.153
+United States,None,Unban,37.751,-97.822,162.247.74.202
+Denmark,None,Unban,55.7123,12.0564,185.129.62.62
+Germany,None,Found,51.2993,9.491,185.220.101.216
+Germany,None,Found,51.2993,9.491,185.220.101.216
+Germany,None,Ban,51.2993,9.491,185.220.101.216
+Germany,None,Found,51.2993,9.491,185.220.101.216
+Germany,None,already banned,51.2993,9.491,185.220.101.216
+Germany,None,Found,51.2993,9.491,185.220.102.243
+Germany,None,Ban,51.2993,9.491,185.220.102.243
+Germany,None,Unban,51.2993,9.491,185.220.101.216
+Germany,None,Unban,51.2993,9.491,185.220.102.243
+Netherlands,s-Hertogenbosch,Found,51.6906,5.2755,77.247.181.165
+Netherlands,s-Hertogenbosch,Ban,51.6906,5.2755,77.247.181.165
+Netherlands,s-Hertogenbosch,Found,51.6906,5.2755,77.247.181.165
+Netherlands,s-Hertogenbosch,Unban,51.6906,5.2755,77.247.181.165
+Germany,None,Found,51.2993,9.491,185.220.102.6
+Germany,None,Found,51.2993,9.491,185.220.102.6
+Germany,None,Ban,51.2993,9.491,185.220.102.6
+Germany,None,Found,51.2993,9.491,185.220.102.6
+Germany,None,already banned,51.2993,9.491,185.220.102.6
+Netherlands,Amsterdam,Found,52.3759,4.8975,192.42.116.22
+Netherlands,Amsterdam,Found,52.3759,4.8975,192.42.116.22
+Netherlands,Amsterdam,Ban,52.3759,4.8975,192.42.116.22
+Netherlands,Amsterdam,Found,52.3759,4.8975,192.42.116.22
+Germany,None,Unban,51.2993,9.491,185.220.102.6
+Netherlands,Amsterdam,Unban,52.3759,4.8975,192.42.116.22
+France,None,Found,48.8582,2.3387,51.68.139.151
+France,None,Found,48.8582,2.3387,51.68.139.151
+France,None,Ban,48.8582,2.3387,51.68.139.151
+France,None,Found,48.8582,2.3387,51.68.139.151
+United States,Phoenix,Found,33.4532,-112.0748,104.244.75.153
+United States,Phoenix,Found,33.4532,-112.0748,104.244.75.153
+United States,Phoenix,Ban,33.4532,-112.0748,104.244.75.153
+United States,Phoenix,Found,33.4532,-112.0748,104.244.75.153
+France,None,Unban,48.8582,2.3387,51.68.139.151
+United States,Phoenix,Unban,33.4532,-112.0748,104.244.75.153
+United States,None,Found,37.751,-97.822,162.247.74.202
+United States,None,Ban,37.751,-97.822,162.247.74.202
+United States,None,Found,37.751,-97.822,162.247.74.202
+France,None,Found,48.8582,2.3387,145.239.82.87
+France,None,Ban,48.8582,2.3387,145.239.82.87
+France,None,Found,48.8582,2.3387,145.239.82.87
+Germany,None,Found,51.2993,9.491,185.220.102.240
+Germany,None,Ban,51.2993,9.491,185.220.102.240
+Germany,None,Found,51.2993,9.491,185.220.102.240
+United States,None,Found,37.751,-97.822,207.244.70.35
+United States,None,Ban,37.751,-97.822,207.244.70.35
+United States,None,Found,37.751,-97.822,207.244.70.35
+France,None,Found,48.8582,2.3387,45.154.168.201
+France,None,Ban,48.8582,2.3387,45.154.168.201
+France,None,Found,48.8582,2.3387,45.154.168.201
+Germany,None,Found,51.2993,9.491,185.220.102.243
+Germany,None,Ban,51.2993,9.491,185.220.102.243
+Germany,None,Found,51.2993,9.491,185.220.102.243
+Germany,None,Found,51.2993,9.491,185.220.102.247
+Germany,None,Ban,51.2993,9.491,185.220.102.247
+Germany,None,Found,51.2993,9.491,185.220.102.247
+Germany,None,already banned,51.2993,9.491,185.220.102.247
+Netherlands,Amsterdam,Found,52.3759,4.8975,192.42.116.26
+Netherlands,Amsterdam,Ban,52.3759,4.8975,192.42.116.26
+Netherlands,Amsterdam,Found,52.3759,4.8975,192.42.116.26
+United States,None,Found,37.751,-97.822,23.129.64.188
+United States,None,Ban,37.751,-97.822,23.129.64.188
+United States,None,Found,37.751,-97.822,23.129.64.188
+United States,None,Found,37.751,-97.822,23.129.64.182
+United States,None,Ban,37.751,-97.822,23.129.64.182
+United States,None,Found,37.751,-97.822,23.129.64.182
+Germany,None,Found,51.2993,9.491,185.220.102.252
+Germany,None,Ban,51.2993,9.491,185.220.102.252
+Germany,None,Found,51.2993,9.491,185.220.102.252
+Germany,None,Found,51.2993,9.491,185.220.102.244
+Germany,None,Ban,51.2993,9.491,185.220.102.244
+Germany,None,Found,51.2993,9.491,185.220.102.244
+United States,New York,Found,40.7308,-73.9975,209.95.51.11
+United States,New York,Ban,40.7308,-73.9975,209.95.51.11
+United States,New York,Found,40.7308,-73.9975,209.95.51.11
+France,None,Found,48.8582,2.3387,212.47.229.4
+France,None,Ban,48.8582,2.3387,212.47.229.4
+France,None,Found,48.8582,2.3387,212.47.229.4
+Germany,None,Found,51.2993,9.491,51.75.144.43
+Germany,None,Ban,51.2993,9.491,51.75.144.43
+Germany,None,Found,51.2993,9.491,51.75.144.43
+Denmark,None,Found,55.7123,12.0564,185.38.175.72
+Denmark,None,Ban,55.7123,12.0564,185.38.175.72
+Denmark,None,Found,55.7123,12.0564,185.38.175.72
+Switzerland,Zurich,Found,47.394,8.445,195.206.105.217
+Switzerland,Zurich,Ban,47.394,8.445,195.206.105.217
+Switzerland,Zurich,Found,47.394,8.445,195.206.105.217
+Germany,None,Found,51.2993,9.491,185.220.103.6
+Germany,None,Ban,51.2993,9.491,185.220.103.6
+Germany,None,Found,51.2993,9.491,185.220.103.6
+United States,Phoenix,Found,33.4532,-112.0748,104.244.75.157
+United States,Phoenix,Ban,33.4532,-112.0748,104.244.75.157
+United States,Phoenix,Found,33.4532,-112.0748,104.244.75.157
+France,None,Found,48.8582,2.3387,51.75.52.118
+France,None,Ban,48.8582,2.3387,51.75.52.118
+France,None,Found,48.8582,2.3387,51.75.52.118
+Germany,None,Found,51.2993,9.491,185.220.102.248
+Germany,None,Ban,51.2993,9.491,185.220.102.248
+Germany,None,Found,51.2993,9.491,185.220.102.248
+Sweden,None,Found,59.3247,18.056,171.25.193.25
+Sweden,None,Ban,59.3247,18.056,171.25.193.25
+Sweden,None,Found,59.3247,18.056,171.25.193.25
+United States,Bay City,Found,43.6077,-83.9498,64.113.32.29
+United States,Bay City,Ban,43.6077,-83.9498,64.113.32.29
+United States,Bay City,Found,43.6077,-83.9498,64.113.32.29
+United States,None,Unban,37.751,-97.822,162.247.74.202
+France,None,Unban,48.8582,2.3387,145.239.82.87
+Germany,None,Unban,51.2993,9.491,185.220.102.240
+United States,None,Unban,37.751,-97.822,207.244.70.35
+France,None,Unban,48.8582,2.3387,45.154.168.201
+Germany,None,Unban,51.2993,9.491,185.220.102.243
+Germany,None,Unban,51.2993,9.491,185.220.102.247
+Netherlands,Amsterdam,Unban,52.3759,4.8975,192.42.116.26
+United States,None,Unban,37.751,-97.822,23.129.64.188
+United States,None,Unban,37.751,-97.822,23.129.64.182
+Germany,None,Unban,51.2993,9.491,185.220.102.252
+Germany,None,Unban,51.2993,9.491,185.220.102.244
+United States,New York,Unban,40.7308,-73.9975,209.95.51.11
+France,None,Unban,48.8582,2.3387,212.47.229.4
+Germany,None,Unban,51.2993,9.491,51.75.144.43
+Denmark,None,Unban,55.7123,12.0564,185.38.175.72
+Switzerland,Zurich,Unban,47.394,8.445,195.206.105.217
+Germany,None,Unban,51.2993,9.491,185.220.103.6
+United States,Phoenix,Unban,33.4532,-112.0748,104.244.75.157
+France,None,Unban,48.8582,2.3387,51.75.52.118
+Germany,None,Unban,51.2993,9.491,185.220.102.248
+Sweden,None,Unban,59.3247,18.056,171.25.193.25
+United States,Bay City,Unban,43.6077,-83.9498,64.113.32.29
+United States,None,Found,37.751,-97.822,23.129.64.209
+United States,None,Ban,37.751,-97.822,23.129.64.209
+United States,None,Found,37.751,-97.822,23.129.64.209
+United States,New York,Found,40.7308,-73.9975,209.95.51.11
+United States,New York,Ban,40.7308,-73.9975,209.95.51.11
+United States,New York,Found,40.7308,-73.9975,209.95.51.11
+United States,None,Unban,37.751,-97.822,23.129.64.209
+United States,New York,Unban,40.7308,-73.9975,209.95.51.11
+Canada,Montreal,Found,45.4995,-73.5848,158.69.35.227
+Canada,Montreal,Ban,45.4995,-73.5848,158.69.35.227
+Canada,Montreal,Found,45.4995,-73.5848,158.69.35.227
+United States,None,Found,37.751,-97.822,23.129.64.208
+United States,None,Ban,37.751,-97.822,23.129.64.208
+United States,None,Found,37.751,-97.822,23.129.64.208
+United States,None,already banned,37.751,-97.822,23.129.64.208
+United States,None,Found,37.751,-97.822,23.129.64.196
+United States,None,Ban,37.751,-97.822,23.129.64.196
+United States,None,Found,37.751,-97.822,23.129.64.196
+Netherlands,s-Hertogenbosch,Found,51.6906,5.2755,77.247.181.162
+Netherlands,s-Hertogenbosch,Ban,51.6906,5.2755,77.247.181.162
+Netherlands,s-Hertogenbosch,Found,51.6906,5.2755,77.247.181.162
+Netherlands,s-Hertogenbosch,already banned,51.6906,5.2755,77.247.181.162
+Canada,Montreal,Unban,45.4995,-73.5848,158.69.35.227
+United States,None,Unban,37.751,-97.822,23.129.64.208
+United States,None,Unban,37.751,-97.822,23.129.64.196
+Netherlands,s-Hertogenbosch,Unban,51.6906,5.2755,77.247.181.162
+France,None,Found,48.8582,2.3387,54.38.81.231
+France,None,Ban,48.8582,2.3387,54.38.81.231
+France,None,Found,48.8582,2.3387,54.38.81.231
+Germany,None,Found,51.2993,9.491,185.220.102.245
+Germany,None,Ban,51.2993,9.491,185.220.102.245
+Germany,None,Found,51.2993,9.491,185.220.102.245
+Ukraine,None,Found,50.4522,30.5287,193.218.118.140
+Ukraine,None,Ban,50.4522,30.5287,193.218.118.140
+Ukraine,None,Found,50.4522,30.5287,193.218.118.140
+Romania,Bucharest,Found,44.4333,26.1,185.100.87.206
+Romania,Bucharest,Ban,44.4333,26.1,185.100.87.206
+Romania,Bucharest,Found,44.4333,26.1,185.100.87.206
+Netherlands,s-Hertogenbosch,Found,51.6906,5.2755,77.247.181.165
+Netherlands,s-Hertogenbosch,Ban,51.6906,5.2755,77.247.181.165
+Netherlands,s-Hertogenbosch,Found,51.6906,5.2755,77.247.181.165
+Germany,None,Found,51.2993,9.491,51.75.144.43
+Germany,None,Ban,51.2993,9.491,51.75.144.43
+Germany,None,Found,51.2993,9.491,51.75.144.43
+United States,None,Found,37.751,-97.822,162.247.74.204
+United States,None,Ban,37.751,-97.822,162.247.74.204
+United States,None,Found,37.751,-97.822,162.247.74.204
+Sweden,Falun,Found,60.6036,15.626,46.59.65.88
+Sweden,Falun,Ban,60.6036,15.626,46.59.65.88
+Sweden,Falun,Found,60.6036,15.626,46.59.65.88
+Sweden,Falun,already banned,60.6036,15.626,46.59.65.88
+Germany,None,Found,51.2993,9.491,185.220.103.7
+Germany,None,Ban,51.2993,9.491,185.220.103.7
+Germany,None,Found,51.2993,9.491,185.220.103.7
+United States,Phoenix,Found,33.4532,-112.0748,104.244.75.53
+United States,Phoenix,Ban,33.4532,-112.0748,104.244.75.53
+United States,Phoenix,Found,33.4532,-112.0748,104.244.75.53
+United States,Las Vegas,Found,36.1685,-115.1164,209.141.41.103
+United States,Las Vegas,Ban,36.1685,-115.1164,209.141.41.103
+United States,Las Vegas,Found,36.1685,-115.1164,209.141.41.103
+United States,None,Found,37.751,-97.822,23.129.64.215
+United States,None,Ban,37.751,-97.822,23.129.64.215
+United States,None,Found,37.751,-97.822,23.129.64.215
+United States,None,Found,37.751,-97.822,23.129.64.210
+United States,None,Ban,37.751,-97.822,23.129.64.210
+United States,None,Found,37.751,-97.822,23.129.64.210
+Sweden,None,Found,59.3247,18.056,171.25.193.77
+Sweden,None,Ban,59.3247,18.056,171.25.193.77
+Sweden,None,Found,59.3247,18.056,171.25.193.77
+Sweden,None,already banned,59.3247,18.056,171.25.193.77
+Netherlands,Haarlem,Found,52.3812,4.6361,51.15.43.205
+Netherlands,Haarlem,Ban,52.3812,4.6361,51.15.43.205
+Netherlands,Haarlem,Found,52.3812,4.6361,51.15.43.205
+Germany,None,Found,51.2993,9.491,185.220.102.250
+Germany,None,Ban,51.2993,9.491,185.220.102.250
+Germany,None,Found,51.2993,9.491,185.220.102.250
+United States,Cambridge,Found,42.3649,-71.0987,18.27.197.252
+United States,Cambridge,Ban,42.3649,-71.0987,18.27.197.252
+United States,Cambridge,Found,42.3649,-71.0987,18.27.197.252
+Germany,None,Found,51.2993,9.491,185.220.101.205
+Germany,None,Ban,51.2993,9.491,185.220.101.205
+Germany,None,Found,51.2993,9.491,185.220.101.205
+United States,None,Found,37.751,-97.822,23.129.64.217
+United States,None,Ban,37.751,-97.822,23.129.64.217
+United States,None,Found,37.751,-97.822,23.129.64.217
+Canada,Montreal,Found,45.4995,-73.5848,158.69.35.227
+Canada,Montreal,Ban,45.4995,-73.5848,158.69.35.227
+Canada,Montreal,Found,45.4995,-73.5848,158.69.35.227
+Canada,Montreal,already banned,45.4995,-73.5848,158.69.35.227
+France,None,Unban,48.8582,2.3387,54.38.81.231
+Germany,None,Unban,51.2993,9.491,185.220.102.245
+Ukraine,None,Unban,50.4522,30.5287,193.218.118.140
+Romania,Bucharest,Unban,44.4333,26.1,185.100.87.206
+Netherlands,s-Hertogenbosch,Unban,51.6906,5.2755,77.247.181.165
+Germany,None,Unban,51.2993,9.491,51.75.144.43
+United States,None,Unban,37.751,-97.822,162.247.74.204
+Sweden,Falun,Unban,60.6036,15.626,46.59.65.88
+Germany,None,Unban,51.2993,9.491,185.220.103.7
+United States,Phoenix,Unban,33.4532,-112.0748,104.244.75.53
+United States,Las Vegas,Unban,36.1685,-115.1164,209.141.41.103
+United States,None,Unban,37.751,-97.822,23.129.64.215
+United States,None,Unban,37.751,-97.822,23.129.64.210
+Sweden,None,Unban,59.3247,18.056,171.25.193.77
+Netherlands,Haarlem,Unban,52.3812,4.6361,51.15.43.205
+Germany,None,Unban,51.2993,9.491,185.220.102.250
+United States,Cambridge,Unban,42.3649,-71.0987,18.27.197.252
+Germany,None,Unban,51.2993,9.491,185.220.101.205
+United States,None,Unban,37.751,-97.822,23.129.64.217
+Canada,Montreal,Unban,45.4995,-73.5848,158.69.35.227
